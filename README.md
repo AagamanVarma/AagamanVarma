@@ -1,6 +1,6 @@
 # Hi, I'm Aagaman 👋
 AI / ML Developer Intern @ SvaraAI  
-B.Tech — Information Technology, USICT (GGSIPU) • 2022–2026 • CGPA: 8.66  
+B.Tech — Information Technology, USICT (GGSIPU) • 2022–2026 • CGPA: 8.68  
 
 I build production-oriented AI systems — LLM agents, NLP pipelines, and deployed ML services — focused on real-world automation and human-AI workflows.
 
