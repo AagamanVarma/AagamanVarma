@@ -20,7 +20,7 @@ LLMs / NLP
 • Prompt Engineering  
 
 Backend & Deployment  
-• FastAPI • Flask • REST APIs • Streamlit  
+• FastAPI • REST APIs • Streamlit  
 • Docker  
 
 Data & Tools  
