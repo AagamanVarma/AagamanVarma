@@ -26,12 +26,7 @@ Backend & Deployment
 Data & Tools  
 • NumPy • Pandas • Jupyter • Git • n8n  
 
----
 
-## 🏆 Achievements
-
-- 🥉 3rd Place — Web Battle (USICT ACM)
-- Co-founded e-commerce store fulfilling 100+ orders
 
 ---
 
