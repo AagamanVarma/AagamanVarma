@@ -2,30 +2,26 @@
 AI / ML Developer Intern @ SvaraAI  
 B.Tech — Information Technology, USICT (GGSIPU) • 2022–2026 • CGPA: 8.68  
 
-I build production-oriented AI systems — LLM agents, NLP pipelines, and deployed ML services — focused on real-world automation and human-AI workflows.
+I build end-to-end machine learning systems — from data pipelines and model training to API deployment and lifecycle management — focused on real-world use cases.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-Languages  
+**Languages**  
 • Python • C++ • SQL  
 
-AI / Machine Learning  
-• scikit-learn • XGBoost • TensorFlow • PyTorch  
+**AI / Machine Learning**  
+• scikit-learn • Feature Engineering • Model Evaluation • Drift Detection • Model Lifecycle Management
  
-LLMs / NLP  
-• Transformers • spaCy • NLTK  
-• Gemini API • OpenAI • Claude  
-• Prompt Engineering  
+**LLMs / NLP**  
+• spaCy • Transformers  • Gemini API • Claude  • Prompt Engineering   
 
-Backend & Deployment  
-• FastAPI • REST APIs • Streamlit  
-• Docker  
+**Backend & Deployment**  
+• FastAPI • REST APIs • Docker • GitHub Actions
 
-Data & Tools  
-• NumPy • Pandas • Jupyter • Git • n8n  
-
+**Data & Tools**  
+• NumPy • Pandas • Jupyter • Git
 
 
 ---
